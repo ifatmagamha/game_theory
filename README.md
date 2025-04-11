@@ -43,4 +43,4 @@ An interactive simulation will soon be available to explore:
 - AI behaviors in competitive settings
 
 
-> “Game theory turns complex decision-making into structured reasoning. With AI, it’s no longer theoretical — it’s how machines learn to play smart.”
+> “This presentation was created as part of a broader reflection on strategic interactions. We're now working on an open-source simulation project to explore game-theoretic behavior among AI agents.”
